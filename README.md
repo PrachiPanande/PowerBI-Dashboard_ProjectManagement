@@ -18,7 +18,7 @@ This dashboard centralizes all the essential KPIs required for efficient project
 📜 License
 
 
-📌 Overview
+📌 Overview <\n>
 This Power BI solution provides a unified analytical view for project tracking, employee allocation, client management, and department performance.
 The dashboard focuses on:
 
