@@ -120,7 +120,9 @@ New Client ID
 New Client Name
 
 📊 Dashboard Pages & Insights
+
 1️⃣ Overview Page
+
 Provides high-level KPIs and insights:
 
 Total & active projects
@@ -151,6 +153,7 @@ Employment type segmentation
 Detailed employee table
 
 5️⃣ Employee Detail Page
+
 Drill through from employess dashboard that shows a single employee's full profile:
 
 Employee Name
@@ -194,10 +197,12 @@ Add forecasting models for capacity planning
 
 
 🤝 Contributing
+
 Pull requests are welcome.
 For major changes, please open an issue first to discuss the proposed update.
 
 📜 License
+
 This project is licensed under the MIT License.
 
 
