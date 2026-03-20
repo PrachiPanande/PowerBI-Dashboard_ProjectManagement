@@ -33,90 +33,93 @@ Identifying important clients and new client pipelines
 📈 Executive & Project Insights
 
 Total projects, active projects, pipeline projects
+
 Current vs upcoming project budget (based on upcoming projects data)
+
 Status distribution (Completed, In Progress, On Hold, Cancelled)
+
 Priority & risk‑based project breakdown
 
 🏢 Department-Level Monitoring
 
-Total departments
-Project allocation by department
-Monthly project load (based on existing project dates)
+Total departments,
+Project allocation by department,
+Monthly project load (based on existing project dates),
 Expected budget for upcoming projects by department
 
 👥 Employee & Team Analytics
 
-Total employees
-Employee count per project
-Team structure (team leader, group head, team size)
+Total employees,
+Employee count per project,
+Team structure (team leader, group head, team size),
 View employees linked to project + team
 
 🧩 Client Management
 
-Active clients
-New clients for upcoming projects
-Top clients by project association
+Active clients,
+New clients for upcoming projects,
+Top clients by project association,
 
 🗂️ Dataset & Data Model
 
 1️⃣ Projects
 Contains all details of ongoing/active projects:
 
-ProjectID
-Client ID
-Department ID
-Start Date
-End Date
-Expected Duration
-Status
-Priority
-Risk
+ProjectID,
+Client ID,
+Department ID,
+Start Date,
+End Date,
+Expected Duration,
+Status,
+Priority,
+Risk,
 Project Type
 
 2️⃣ Departments
 Department master information:
 
-Department
+Department,
 Department ID
 
 3️⃣ Clients
 Active client information:
 
-Client ID
+Client ID,
 Client Name
 
 4️⃣ Employees
 Employee details + project & team mapping:
 
-Emp ID
-Emp Name
-Employment Type
-Project ID
+Emp ID,
+Emp Name,
+Employment Type,
+Project ID,
 Team ID
 
 5️⃣ Team
 Team hierarchy supporting employee view:
 
-Team ID
-Team Leader
-Group Head
+Team ID,
+Team Leader,
+Group Head,
 Team Size
 
 6️⃣ Upcoming Projects
 Future project pipeline:
 
-Department ID
-Expected Budget
-Expected End Date
-New Project Start Date
-Expected Duration
-New Client Name
+Department ID,
+Expected Budget,
+Expected End Date,
+New Project Start Date,
+Expected Duration,
+New Client Name,
 New Project Name
 
 7️⃣ New Clients
 Clients linked to future projects:
 
-New Client ID
+New Client ID,
 New Client Name
 
 📊 Dashboard Pages & Insights
@@ -125,58 +128,62 @@ New Client Name
 
 Provides high-level KPIs and insights:
 
-Total & active projects
-Active clients
-Current vs upcoming budget
-Project count by month/quarter
+Total & active projects,
+Active clients,
+Current vs upcoming budget,
+Project count by month/quarter,
 Status breakdown
 
 2️⃣ Priority & Client Insights Page
 
-High/Medium/Low project priority
-Completed vs In-progress comparison
-Top-N clients (Projects or Budget)
-Client segmentation
+High/Medium/Low project priority,
+Completed vs In-progress comparison,
+Top-N clients (Projects or Budget),
+Client segmentation,
 
 3️⃣ Department Analysis Page
 
-Department-wise expected budget (from Upcoming Projects)
-Department workload based on active project timelines
+Department-wise expected budget (from Upcoming Projects),
+Department workload based on active project timelines,
 Monthly heatmap for project distribution
 
 4️⃣ Employees Dashboard
 
-Total employees
-Team alignment
-Employee distribution across projects
-Employment type segmentation
+Total employees,
+Team alignment,
+Employee distribution across projects,
+Employment type segmentation,
 Detailed employee table
 
 5️⃣ Employee Detail Page
 
 Drill through from employess dashboard that shows a single employee's full profile:
 
-Employee Name
-Department
-Employment Type
-Team Leader
-Project Name
+Employee Name,
+Department,
+Employment Type,
+Team Leader,
+Project Name,
 Start & End Dates
 
 🛠️ Tools & Technologies
 
-Power BI Desktop
-DAX
-Power Query
+Power BI Desktop,
+DAX,
+Power Query,
 Excel / CSV Data Sources
 
 
 🚀 How to Use
 
 Download the .pbix file
+
 Open it in Power BI Desktop
+
 Replace dataset with your own (optional)
+
 Refresh the data model
+
 Use filters, slicers & bookmarks for navigation
 
 
@@ -190,9 +197,9 @@ Use filters, slicers & bookmarks for navigation
 
 🔮 Future Enhancements
 
-Add role-based security (RLS)
-Add task-level granularity (with a Tasks table)
-Integrate external project management systems (Jira, Azure DevOps)
+Add role-based security (RLS),
+Add task-level granularity (with a Tasks table),
+Integrate external project management systems (Jira, Azure DevOps),
 Add forecasting models for capacity planning
 
 
