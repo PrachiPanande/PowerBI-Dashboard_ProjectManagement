@@ -178,7 +178,30 @@ Use filters, slicers & bookmarks for navigation
 
 🖼️ Screenshots
 <img width="1253" height="720" alt="Screenshot 2026-03-20 124131" src="https://github.com/user-attachments/assets/6b77d72c-b47f-4dbc-ba22-90fe1e6da43b" /></n>
-<img width="1254" height="705" alt="Screenshot 2026-03-20 124217" src="https://github.com/user-attachments/assets/5f385d22-a27d-48a9-b572-a37d8f85b123" />
+<img width="1254" height="705" alt="Screenshot 2026-03-20 124217" src="https://github.com/user-attachments/assets/5f385d22-a27d-48a9-b572-a37d8f85b123" /></n>
+<img width="1235" height="690" alt="Screenshot 2026-03-20 124240" src="https://github.com/user-attachments/assets/b747a4c3-9803-4491-a0f3-d9f8d59c0dcf" /></n>
+<img width="1246" height="705" alt="Screenshot 2026-03-20 124304" src="https://github.com/user-attachments/assets/ce49c7f8-5a92-4091-90e1-939770ff26d9" /></n>
+<img width="1287" height="697" alt="Screenshot 2026-03-20 124328" src="https://github.com/user-attachments/assets/7c52e20d-2b18-4f2b-8ae4-b07a039af40d" /></n>
+<img width="1304" height="699" alt="Screenshot 2026-03-20 124413" src="https://github.com/user-attachments/assets/21bd07f9-63b7-40a2-838b-83d6c3965a25" /></n>
+
+🔮 Future Enhancements
+
+Add role-based security (RLS)
+Add task-level granularity (with a Tasks table)
+Integrate external project management systems (Jira, Azure DevOps)
+Add forecasting models for capacity planning
+
+
+🤝 Contributing
+Pull requests are welcome.
+For major changes, please open an issue first to discuss the proposed update.
+
+📜 License
+This project is licensed under the MIT License.
+
+
+
+
 
 
 
